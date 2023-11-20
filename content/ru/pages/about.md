@@ -4,20 +4,19 @@ description: 'Hugo, the world''s fastest framework for building websites'
 author: Hugo Authors
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Добро пожаловать в мой личный блог, где я приглашаю Вас в путешествие по тщательно подобранной коллекции моих мыслей, идей и обзоров.
 
-Hugo makes use of a variety of open source projects including:
+Пока Вы прокладываете свой путь по виртуальным страницам моего блога, Вас ожидает разнообразный поток событий, концепций и данных, захвативших моё внимание. Блог распределён по следующим темам:
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+1. **Книги & Литература**: Погрузитесь со мной в литературный мир, в рамках которого я делюсь с Вами своими обзорами на различные литературные произведения, оставившие неизгладимый след в моем сознании. 
+2. **Еда & Кулинария**: Присоединяйтесь к моему гастрономическому туру, где я углубляюсь в мир рецептов и нахожу радость в творчестве приготовления блюд разных стран и культур.
+3. **Путешествия & Приключения**: Окунитесь в виртуальное путешествие, где я рассказываю о своих впечатлениях из разных уголков земли, в которых мне посчастливолось побывать.
+4. **Стиль жизни & Личное развитие**: Порефлексируйте со мной на темы личностного развития, амбиций и жизненных выборов в попытке вести осознанный образ жизни.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Этот блог – гобелен исследований и мозаика размышлений, отражающих многочисленные грани моей жизни.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+Надеюсь, что здесь Вы найдёте что-то, что вызовет у Вас улыбку, станет пищей для Ваших размышлений или подтолкнёт Вас на новые эмоции и открытия.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+Благодарю Вас за то, что присоединились ко мне в этом виртуальном путешествии по миру внутри и вокруг нас!
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+(๑ ‵ ● ‿ ● ‵ ๑)
