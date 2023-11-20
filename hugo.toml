@@ -67,7 +67,7 @@ disqusShortname = ''
   description = " Personal blog of AI about books, lifestyle, languages, and more."
   mainSections = ['posts']
   contentDir = "content"
-  toc = true # set to false to disable table of contents 'globally'
+  toc = false # set to false to disable table of contents 'globally'
   tocOpen = false # set to true to open table of contents by default
   goToTop = true # set to false to disable 'go to top' button
   additionalScripts = ['js/custom.js', 'js/custom-2.js']
@@ -133,7 +133,7 @@ disqusShortname = ''
   # You can take a look at layouts/index.html for more information.
   description = "Погрузитесь в путешествие сквозь калейдоскоп моих мыслей, где слова и идеи сливаются в единый танец."
   mainSections = ['posts']
-  toc = true # set to false to disable table of contents 'globally'
+  toc = false # set to false to disable table of contents 'globally'
   tocOpen = false # set to true to open table of contents by default
   goToTop = true # set to false to disable 'go to top' button
   additionalScripts = ['js/custom.js', 'js/custom-2.js']
