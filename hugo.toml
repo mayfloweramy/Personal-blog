@@ -21,6 +21,9 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
 # To disable Disqus comments, simply leave the field empty or remove the next line
 disqusShortname = ''
 
+[params]
+  goToTop = true
+  
 # set markup.highlight.noClasses=false to enable code highlight
 [markup]
   [markup.highlight]
