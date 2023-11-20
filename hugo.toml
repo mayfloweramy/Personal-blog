@@ -172,12 +172,16 @@ disqusShortname = ''
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/hugo-sid"
+url = "https://github.com/mayfloweramy"
 
 [[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com"
+name = "Instagram"
+url = "https://www.instagram.com/mayfloweramy/"
 
-[[params.socialIcons]]
-name = "Rss"
-url = "index.xml"
+# [[params.socialIcons]]
+# name = "Rss"
+# url = "index.xml"
+
+[[params.socialIcons]] 
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/amina-ignateva/"
