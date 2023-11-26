@@ -60,6 +60,12 @@ disqusShortname = ''
     name = 'About'
     url = '/about/'
     weight = 30
+  [[Languages.en-gb.menu.main]]
+    pageRef="resume"
+    name = 'Resume'
+    url = '/amina_ignateva_resume.pdf'
+    weight = 40
+
 
 [Languages.en-gb.params]
   sitename = "Amina Ignateva" 
@@ -89,7 +95,7 @@ disqusShortname = ''
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Amina Ignateva"
-  name = "AI"
+  name = "mayfloweramy"
   description = "Embark on a journey through the kaleidoscope of my thoughts, where words dance and ideas collide."
 
 # Allow to override webmanifest options
@@ -155,7 +161,7 @@ disqusShortname = ''
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Амина Игнатьева"
-  name = "Sidharth R"
+  name = "mayfloweramy"
   description = "Погрузитесь в путешествие сквозь калейдоскоп моих мыслей, где слова и идеи сливаются в единый танец."
 
 # Allow to override webmanifest options

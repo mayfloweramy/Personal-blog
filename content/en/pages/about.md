@@ -20,4 +20,5 @@ I hope you find inspiration, entertainment, and perhaps a shared connection as y
 
 Thank you for joining me on this virtual exploration of the world within and around us! 
 
+You can find my resume [here](/amina_ignateva_resume.pdf)
 (๑ ‵ ● ‿ ● ‵ ๑)
