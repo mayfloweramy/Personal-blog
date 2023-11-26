@@ -1,21 +1,21 @@
 +++
-title = 'F. Dostoevsky "The Brothers Karamazov" | Books & Literature'
+title = 'Ф.М. Достоевский "Братья Карамазовы" | Книги & Литература'
 date = 2023-11-20T12:00:11+01:00
 draft = false
 
 +++
 
-Lately, I've had this revelation that I've yet to dive into one of the ultimate classics – The Brothers Karamazov.
+В течение некоторого времени, я всё думала о том, что нужно бы почитать или заново перечитать русскую классическую литературу со школьной скамьи. Я начала это дело с "Братьев Карамазовых". 
 
-![](123.jpg)
+![](1234.jpg)
 
-Guess what? My husband's sister was totally on board with cracking this book open too! We were spicing things up by reading it in two different languages and then trading notes on this literary gem. It turned out to be quite the thrilling adventure. I tackled it in Russian, one of my mother tongues, while she took on the challenge in Turkish.
+Знаете что? Сестра моего мужа была полностью "за" идею прочтения этого произведения вместе со мной. Что-то вроде небольшого семейного книжного клуба. Мы решили прочитать эту книгу на двух разных языках - русском и турецком. Периодически, мы делились нашими мнениями и эмоциями. 
 
-So, "The Brothers Karamazov" unfolds across 12 books (you could call them chapters), and as of November 20, 2023, I found myself immersed in the fifth installment. The journey so far had been both captivating and thought-provoking. Although I navigated through it digitally, I must admit, I lean towards the allure of a tangible hard copy.
+Итак, "Братья Карамазовы" развиваются на протяжении 12 книг (aka главами). Процесс чтения был довольно интересным и интригующим, а также давал пищу для размышлений. Я прочитала книгу в электронном формате, несмотря на то, что мне больше по душе физический переплет. 
 
-Not that I hold anything against e-books – they're undeniably eco-friendly and offer unparalleled reading flexibility. Yet, there's something magical about physical books. The sensation of touching their pages, inhaling that distinct scent, and gracefully turning one page after another is an experience that resonates deeply with me. Do you get what I mean?
+Не то, что бы я была категорически против электронных книг — они, несомненно, более экологичны и доступны в любой момент в любое время. Тем не менее, есть что-то волшебное в физических книгах. Перелистывать страницу за страницей, вдыхать запах книги и наблюдать прогресс чтения воочию — это именно то, что мне очень ценно за чтением. 
 
-Here and after, I am putting the citations from the book.
+Здесь и далее я указываю цитаты из книги, а также мои мысли по их поводу. 
 
 "... Но, по-моему, чудеса реалиста никогда не смутят." p. 3
 
