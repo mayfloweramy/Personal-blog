@@ -1,13 +1,44 @@
 +++
-title = 'cmoks are the best!'
+title = 'Фрикадельки в сливочно-томатном соусе с картофельным пюре | Еда & Кулинария'
 date = 2023-11-20T11:47:04+01:00
-draft = true
+draft = false
+
 +++
 
-# hello 
+# Фрикадельки в сливочно-томатном соусе с картофельным пюре | Еда & Кулинария 
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the **release** of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Что понадобится для фарша?
 
-This is **bold** text, and this is *emphasized* text.
+- 1 луковица 
+- 400 гр фарша
+- Зубчик чеснока
+- Итальянские травы
+- 1/2 чайной ложки соли
+- 1 яйцо
 
-Visit the [Hugo](https://gohugo.io) website!
+Что понадобится для соуса?
+
+- 300 мл томатного соуса
+- 100 мл сливок
+
+Что понадобится для картофельного пюре?
+
+- Картофель
+- Соль
+- Перец
+- Сыр
+- Молоко
+- Сливочное масло
+
+Что нужно сделать?
+
+1. Сварить и размять картофель до однородной массы, добавив остальные ингредиенты для приготовления пюре.
+2. Соединить все необходимые продукты для приготовления фарша и поставить ёмкость в холодильник на 10-15 минут.
+3. Далее слепить небольшие фрикадельки из получившейся массы. 
+4. Обжарить на среднем огне, используя оливковое или сливочное масло, периодически перемешивая. 
+5. Добавить 300 мл томатного соуса и 100 мл сливок. 
+6. Добавить соль и сахар по вкусу. 
+7. Можно также добавить сыр и зелень. 
+8. Аккуратно и красиво подать в тарелке.
+
+Enjoyyy! ≽^•⩊•^≼
