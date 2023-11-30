@@ -1,11 +1,11 @@
 +++
-title = 'Фрикадельки в сливочно-томатном соусе с картофельным пюре | Еда & Кулинария'
+title = 'Creamy tomato meatballs with mashed potatoes | Food & Cooking'
 date = 2023-11-20T11:47:04+01:00
 draft = false
 
 +++
 
-# Creamy tomato meatballs with mashed potatoes | Food & Cooking
+# 
 
 What will you need for meatballs?
 
